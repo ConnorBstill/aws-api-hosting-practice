@@ -31,6 +31,11 @@ app.get('/car', (req, res) => {
       make: 'Honda',
       model: 'Civic',
       year: 2010
+    },
+    {
+      make: 'Honda',
+      model: 'Civic',
+      year: 2010
     }
   ];
 
